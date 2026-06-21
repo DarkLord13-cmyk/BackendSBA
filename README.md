@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Core API & Guardrails Assignment
-
 This is a robust, high-performance Spring Boot microservice that acts as the central API gateway and guardrail system. It demonstrates handling concurrent requests, managing distributed state using Redis, and implementing event-driven scheduling.
 
 ## Tech Stack
@@ -62,6 +59,3 @@ To prevent AI compute runaway and handle high concurrency (e.g., the "Race Condi
 
 ## Architecture & Statelessness
 The Spring Boot application remains completely stateless. All counters, cooldowns, and pending notifications are stored exclusively in Redis, satisfying the statelessness requirement. The PostgreSQL database acts as the source of truth for the actual content, but Redis acts as the gatekeeper.
-=======
-# BackendSBA
->>>>>>> 32ff560c5ad7e549848027b97bb8641c092497c3
