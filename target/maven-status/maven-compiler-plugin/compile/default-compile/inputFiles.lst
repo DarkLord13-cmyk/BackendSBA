@@ -1,0 +1,17 @@
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\repository\BotRepository.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\controller\PostController.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\service\ViralityService.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\CoreApiApplication.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\dto\CreateCommentRequest.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\dto\CreatePostRequest.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\entity\Comment.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\repository\CommentRepository.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\entity\Post.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\dto\LikePostRequest.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\service\NotificationService.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\entity\AuthorType.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\repository\PostRepository.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\repository\UserRepository.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\entity\Bot.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\service\PostService.java
+C:\Users\tmpur\.gemini\antigravity\scratch\backend-assignment\src\main\java\com\assignment\coreapi\entity\User.java

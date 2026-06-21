@@ -1,0 +1,5 @@
+com\assignment\coreapi\entity\Bot.class
+com\assignment\coreapi\entity\AuthorType.class
+com\assignment\coreapi\dto\CreateCommentRequest.class
+com\assignment\coreapi\entity\Post.class
+com\assignment\coreapi\dto\CreatePostRequest.class
